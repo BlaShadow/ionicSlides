@@ -1,0 +1,7 @@
+{
+  "name": "ImagesSlider",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
